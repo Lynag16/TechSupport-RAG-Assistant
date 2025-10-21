@@ -29,7 +29,7 @@ PDF Documents → Text Splitter → HuggingFace Embeddings → Chroma DB → Gem
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/TechSupport-RAG-Assistant.git
+git clone https://github.com/Lynag16/TechSupport-RAG-Assistant.git
 cd TechSupport-RAG-Assistant
 ```
 
